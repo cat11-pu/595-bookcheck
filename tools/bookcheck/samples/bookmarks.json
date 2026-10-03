@@ -1,0 +1,120 @@
+[
+  {
+    "id": "aaaa1111",
+    "url": "https://go.dev/doc/",
+    "title": "Go docs",
+    "tags": [
+      "go",
+      "docs"
+    ],
+    "comment": "official docs",
+    "date_added": "2026-01-05T09:00:00Z"
+  },
+  {
+    "id": "bbbb2222",
+    "url": "",
+    "title": "Empty url",
+    "tags": [
+      "cli"
+    ],
+    "date_added": "2026-01-06T10:00:00Z"
+  },
+  {
+    "id": "aaaa1111",
+    "url": "https://example.com/a?utm_source=x",
+    "title": "Duplicate id",
+    "tags": [
+      "Go",
+      "go",
+      "cli"
+    ],
+    "date_added": "not-a-date"
+  },
+  {
+    "id": "cccc3333",
+    "url": "ftp://files.example.com/x",
+    "title": "Bad scheme",
+    "tags": [],
+    "date_added": "2026-01-07T00:00:00Z"
+  },
+  {
+    "id": "dddd4444",
+    "url": "https://example.com/no-title",
+    "title": "",
+    "tags": [
+      " cli "
+    ],
+    "date_added": "2025-13-45T99:99:99Z"
+  },
+  {
+    "id": "eeee5555",
+    "url": "https://example.com/unknown",
+    "title": "Unknown field",
+    "tags": [
+      "news"
+    ],
+    "date_added": "2026-02-01T12:00:00Z",
+    "folder": "reading"
+  },
+  {
+    "id": "ffff6666",
+    "url": "https://example.com/sep-tag",
+    "title": "Tag with separator",
+    "tags": [
+      "a,b",
+      "ok"
+    ],
+    "date_added": "2026-02-02T12:00:00Z"
+  },
+  {
+    "id": "aaaa1111",
+    "url": "https://example.com/third-dup",
+    "title": "Third dup id",
+    "tags": [
+      "x"
+    ],
+    "date_added": "2026-02-03T12:00:00Z"
+  },
+  {
+    "id": "11112222",
+    "url": "https://example.com/multi",
+    "title": "Many findings",
+    "tags": [
+      " ",
+      "dup",
+      "DUP",
+      "ok"
+    ],
+    "comment": "mixed",
+    "date_added": ""
+  },
+  {
+    "id": "33334444",
+    "url": "https://example.com/tags",
+    "title": "Internal space",
+    "tags": [
+      "machine learning",
+      "ok"
+    ],
+    "date_added": "2026-02-04T12:00:00Z"
+  },
+  {
+    "id": "55556666",
+    "url": "https://example.com/ok",
+    "title": "Clean one",
+    "tags": [
+      "go",
+      "cli"
+    ],
+    "date_added": "2026-03-01T09:30:00Z"
+  },
+  {
+    "id": "77778888",
+    "url": "https://example.com/ok2",
+    "title": "   ",
+    "tags": [
+      "cli"
+    ],
+    "date_added": "2026-03-02T18:45:00Z"
+  }
+]

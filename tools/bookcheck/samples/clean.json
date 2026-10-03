@@ -1,0 +1,29 @@
+[
+  {
+    "id": "cafe0001",
+    "url": "https://go.dev/blog/",
+    "title": "Go blog",
+    "tags": [
+      "go",
+      "blog"
+    ],
+    "date_added": "2026-01-01T00:00:00Z"
+  },
+  {
+    "id": "cafe0002",
+    "url": "https://news.ycombinator.com/",
+    "title": "Hacker News",
+    "tags": [],
+    "date_added": "2026-01-02T00:00:00Z"
+  },
+  {
+    "id": "cafe0003",
+    "url": "http://example.com/plain",
+    "title": "Plain",
+    "tags": [
+      "a-b",
+      "c_d"
+    ],
+    "date_added": "2026-01-03T00:00:00Z"
+  }
+]
